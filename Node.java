@@ -52,18 +52,6 @@ public class Node{
         return this.zIndex;
     }
     /**
-     * Nombre del método: getExit
-     * 
-     * Parámetros:
-     * - Ninguno
-     * 
-     * Descripción:
-     * Metodo boolena que nos dice si es la camara es la salida o no.
-     */
-    public boolean getExit(){
-        return isExit;
-    }
-    /**
      * Nombre del método: isDanger
      * 
      * Parámetros:
